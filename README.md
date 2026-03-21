@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi there 👋, I'm Harintha Jayashivani...
+🌱 About Me
 
-<!--
-**harintha-jayashivani/harintha-jayashivani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering undergraduate passionate about full-stack development, emerging technologies, and problem-solving. I love turning ideas into projects and constantly learning new skills in web development, cloud technologies, and software design.
 
-Here are some ideas to get you started:
+💻 Tech Stack
+Frontend: HTML, CSS, JavaScript, React
+Backend: Python (Django), Node.js, Express
+Databases: MySQL, MongoDB
+Tools & Platforms: Git, GitHub, Postman, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 What I'm Working On
+Developing a Bill Vault app to manage warranties and receipts efficiently
+Contributing to open-source projects to sharpen my coding and collaboration skills
+
+📫 How to Reach Me
+Email: h.jayashivani@gmail.com
+LinkedIn: www.linkedin.com/in/harintha-jayashivani
