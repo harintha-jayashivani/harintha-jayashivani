@@ -2,7 +2,7 @@
 
 ### 🌱 About Me
 
-#### I'm a Software Engineering undergraduate passionate about full-stack development, emerging technologies, and problem-solving. I love turning ideas into projects and constantly learning new skills in web development, cloud technologies, and software design.
+#### I'm a Software Engineering undergraduate passionate about full stack development, emerging technologies, and problem solving. I love turning ideas into projects and constantly learning new skills in web development, cloud technologies, and software design.
 
 ### 💻 Tech Stack
 
