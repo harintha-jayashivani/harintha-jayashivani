@@ -22,4 +22,4 @@
 ### 📫 Reach Me
 
 #### - Email: h.jayashivani@gmail.com
-#### - LinkedIn: www.linkedin.com/in/harintha-jayashivani
+#### - LinkedIn: https://www.linkedin.com/in/harintha-jayashivani/
